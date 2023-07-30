@@ -1,0 +1,12 @@
+dcase_util==0.2.20
+ipython==8.12.0
+keras==2.12.0
+librosa==0.10.0.post2
+matplotlib==3.7.1
+numpy==1.23.5
+pandas==2.0.0
+scikit_learn==1.2.2
+sed_eval==0.2.1
+tensorflow==2.12.0
+tensorflow_intel==2.12.0
+tqdm==4.65.0
